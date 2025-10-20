@@ -25,8 +25,8 @@ Atualmente trabalho como Desenvolvedor Back-end Java na empresa Vidyacode, integ
 
 <div align="center">
 
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasdsouza&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdsouza&layout=compact&theme=radical)
+![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=aleatorio101&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleatorio101&layout=compact&theme=radical)
 
 </div>
 
